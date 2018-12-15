@@ -1,7 +1,5 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40[
-☢Th3 S3r!
-☠u$
-☢]™─[~])](https://twitter.com/MrVveb)
+MrVveb]™─[~])](https://twitter.com/MrVveb)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40The Honker )](https://twitter.com/h0nk3r)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/496278911601344522/widget.png)](https://discord.gg/kJwSSzw)
