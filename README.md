@@ -4,10 +4,15 @@
 
 # LulzSecToolkit Microsoft Activatior 2019
 # How it Work :
+       Before use this tool, please turn off antivirus and firewall process during the first time use
        @Only One Step Just Go To The Setup Folder Directory > KMS-activator-V-X/$OEM$/$$/Setup/Scripts/
        Right click at the .File setupcomplete.cmd
        Done 
+       Or Use Local Ativate Only with run The file : "1-SppExtComObjPatcher.cmd"; 
+       after Click on it retry with the Activation file : "2-Activate-Local.cmd";
        Enjoy #Lulz4life<br />
+       Now You Can Check if Your System activated only with double click in file : Check-Activation-Status.cmd
+       Your System will be Activated Lifetime with Successfully
 <br />     
 
 # About KMS-Activator V -X
