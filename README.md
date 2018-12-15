@@ -3,6 +3,12 @@
 [![Discord](https://discordapp.com/api/guilds/496278911601344522/widget.png)](https://discord.gg/kJwSSzw)
 
 # LulzSecToolkit Microsoft Activatior 2019
+<br />
+# How it Work :
+       @Only One Step Just Go To The Setup Folder Directory > KMS-activator-V-X/$OEM$/$$/Setup/Scripts/
+       Right click at the .File setupcomplete.cmd
+       Enjoy ;)
+<br />          
 # About KMS-Activator V -X
    >> This is The #Lulz KMS Source
       it work with any Microsoft Product<br />
