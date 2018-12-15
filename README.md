@@ -3,17 +3,18 @@
 [![Discord](https://discordapp.com/api/guilds/496278911601344522/widget.png)](https://discord.gg/kJwSSzw)
 
 # LulzSecToolkit Microsoft Activatior 2019
-<br />
 # How it Work :
        @Only One Step Just Go To The Setup Folder Directory > KMS-activator-V-X/$OEM$/$$/Setup/Scripts/
        Right click at the .File setupcomplete.cmd
-       Enjoy ;)
-<br />          
+       Done 
+       Enjoy #Lulz4life<br />
+<br />     
+
 # About KMS-Activator V -X
    >> This is The #Lulz KMS Source
-      it work with any Microsoft Product<br />
-      {Coded By LulzSec Members using Automate run Codes}<br />
-      #For More information contact us using our Discord server (link up).<br />
+      it work with any Microsoft Product
+      {Coded By LulzSec Members using Automate run Codes}
+      #For More information contact us using our Discord server (Click Dicord Icon on Top).
             
 This is a community based project, which was released on MDL and got several patches from me and other people.<br />
 The goal isn't to bypass Windows activation, the project is for research and to (if used) activation KMS with a legit key, it simplify the activation process. 
